@@ -40,7 +40,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Open the notebook:
 ```bash
-jupyter notebook task4.ipynb
+jupyter notebook main.ipynb
 ```
 
 4. Follow the steps in the notebook and implement the code snippets accordingly.
@@ -53,6 +53,4 @@ Once preprocessing is complete, you can experiment with machine learning models 
 * Gradient Boosting (XGBoost, LightGBM)
 * Neural Networks
 
-## 📢 Contributions
 
-Feel free to contribute by adding implementations for each step, improving data visualizations, or experimenting with different models!
